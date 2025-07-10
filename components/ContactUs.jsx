@@ -43,11 +43,11 @@ const ContactUs = () => {
                 <div>
                   <h3 className="font-medium text-gray-800">Facebook</h3>
                   <Link
-                    href="https://facebook.com/yourpage"
+                    href="https://www.facebook.com/ellyngoldcollections?mibextid=wwXIfr&mibextid=wwXIfr"
                     target="_blank"
                     className="text-blue-600 hover:underline text-sm"
                   >
-                    @yourbrand
+                    @ellynforte
                   </Link>
                 </div>
               </div>
@@ -64,11 +64,11 @@ const ContactUs = () => {
                 <div>
                   <h3 className="font-medium text-gray-800">Instagram</h3>
                   <Link
-                    href="https://instagram.com/yourpage"
+                    href="https://www.instagram.com/ellyn_forte_backkup?igsh=Y2tlY3VwMmpiYmEx&utm_source=qr"
                     target="_blank"
                     className="text-blue-600 hover:underline text-sm"
                   >
-                    @yourbrand
+                    @ellynforte
                   </Link>
                 </div>
               </div>
@@ -83,13 +83,36 @@ const ContactUs = () => {
                   />
                 </div>
                 <div>
-                  <h3 className="font-medium text-gray-800">Twitter</h3>
+                  <h3 className="font-medium text-gray-800">tiktok</h3>
                   <Link
-                    href="https://twitter.com/yourpage"
+                    href="https://www.tiktok.com/@ellyne_gold?_t=ZM-8xLlvU9kdlQ&_r=1"
                     target="_blank"
                     className="text-blue-600 hover:underline text-sm"
                   >
-                    @yourbrand
+                    @ellynforte
+                  </Link>
+                </div>
+              </div>
+              <div className="flex items-center gap-4">
+                <div className="bg-blue-100 p-3 rounded-full">
+                  <Image
+                    src={assets.whatsapp_icon}
+                    alt="Whatsapp"
+                    width={24}
+                    height={24}
+                  />
+                </div>
+                <div>
+                  <h3 className="font-medium text-gray-800">
+                    Join Whatsapp Group
+                  </h3>
+                  <Link
+                    href="
+https://chat.whatsapp.com/DDBWWqyuGpC3exSWb5y1rN"
+                    target="_blank"
+                    className="text-blue-600 hover:underline text-sm"
+                  >
+                    @ellynforte
                   </Link>
                 </div>
               </div>
@@ -114,10 +137,10 @@ const ContactUs = () => {
                 <div>
                   <h3 className="font-medium text-gray-800">Email</h3>
                   <Link
-                    href="mailto:contact@yourbrand.com"
+                    href="mailto:Ellynforteventures@gmail.com"
                     className="text-blue-600 hover:underline text-sm"
                   >
-                    contact@yourbrand.com
+                    Ellynforteventures@gmail.com
                   </Link>
                 </div>
               </div>
@@ -133,7 +156,7 @@ const ContactUs = () => {
                 </div>
                 <div>
                   <h3 className="font-medium text-gray-800">Phone</h3>
-                  <p className="text-gray-600 text-sm">+1 (123) 456-7890</p>
+                  <p className="text-gray-600 text-sm">(+234)813-973-5166</p>
                 </div>
               </div>
 
@@ -149,7 +172,7 @@ const ContactUs = () => {
                 <div>
                   <h3 className="font-medium text-gray-800">Location</h3>
                   <p className="text-gray-600 text-sm">
-                    123 Business St, City, Country
+                    Worldgate shopping centre Shop 225 One man village, Maraba
                   </p>
                 </div>
               </div>
